@@ -20,6 +20,7 @@ Realitza el pull request (amb un missatge de commit significatiu) i espera que s
 La meva assignatura preferida és xarxes 
 * [mct](files/mct.md)
 
+* [tsc](file/tsc.md)
 - [BY](files/BY.md)
 * [jbv](files/jbv.md)
 * [jsg](files/jsg.md)
