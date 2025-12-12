@@ -20,6 +20,10 @@ Realitza el pull request (amb un missatge de commit significatiu) i espera que s
 
 * [mct](files/mct.md)
 * [jbv](files/jbv.md)
+* [jsg](files/jsg.md)
+- [JCF](files/jcf.md)
+* [avc](files/avc.md)
+* [acm](files/acm.md)
 
 
 
