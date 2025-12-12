@@ -21,6 +21,11 @@ La meva assignatura preferida és xarxes
 * [mct](files/mct.md)
 
 - [BY](files/BY.md)
+* [jbv](files/jbv.md)
+* [jsg](files/jsg.md)
+- [JCF](files/jcf.md)
+* [avc](files/avc.md)
+* [acm](files/acm.md)
 
 
 
